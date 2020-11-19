@@ -1,4 +1,4 @@
-# pep8
+# PEP8 codestyle
 
 Write user-friendly code with PEP-8 naming conventions
 
